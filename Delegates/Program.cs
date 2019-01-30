@@ -1,13 +1,5 @@
 ﻿using System;
 
-/*
-1. A delegate is an object that knows how to call a method (or group of methods), and is a reference to a function
-2. We use delegates for designing extensible and flexible applications
-
-NOTE:
-- Implement interfaces so we can loosely couple the application and create unit tests
-
-*/
 namespace Delegates
 {
     public class Program
